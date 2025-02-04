@@ -1,5 +1,11 @@
+<div align="center" style="width: 100%;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
+       alt="animated hello" 
+       style="width: 100%; max-width: 900px; height: auto;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Chao Liu | Jack</h1>
-<h3 align="center">A passionate full stack developer from China</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> A passionate full stack developer from China <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackliu00331&label=Profile%20views&color=0e75b6&style=flat" alt="jackliu00331" /> </p>
 
