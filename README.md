@@ -1,7 +1,7 @@
 <div align="center" style="width: 100%;">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" 
        alt="animated hello" 
-       style="width: 100%; max-width: 900px; height: auto;">
+       style="width: 100%; height: 300px; object-fit: cover;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Chao Liu | Jack</h1>
