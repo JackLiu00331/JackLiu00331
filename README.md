@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **laychao4396@gmail.com**
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jackliu331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jackliu331" height="30" width="40" /></a>
