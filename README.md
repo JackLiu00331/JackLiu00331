@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackliu00331&label=Profile%20views&color=0e75b6&style=flat" alt="jackliu00331" /> </p>
 
-- 🔭 I’m currently working on personal portfolio
-
 - 🌱 I’m currently studying at **University of Illinois Chicago**
 
-- 📫 How to reach me **cliu1051@uic.edu**
+- 📫 How to reach me **chao.liu754@gmail.com**
+
+- 🔭 I’m currently working on personal portfolio
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <h3 align="left">Connect with me:</h3>
